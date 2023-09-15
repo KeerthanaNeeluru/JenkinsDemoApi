@@ -1,0 +1,11 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\JenkininsDemoApi.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\JenkininsDemoApi.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\JenkininsDemoApi.deps.json
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\JenkininsDemoApi.runtimeconfig.json
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\JenkininsDemoApi.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\Day6\JenkininsDemoApi\JenkininsDemoApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
